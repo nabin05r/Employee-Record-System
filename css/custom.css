@@ -1,0 +1,6 @@
+label.error{
+    color: red;
+}
+table.dataTable>tbody>tr>td{
+    padding: 10px;
+}
